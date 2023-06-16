@@ -1,0 +1,4 @@
+css có 3 kiểu
+- internal
+- external
+- inline
